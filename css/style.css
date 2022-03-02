@@ -1,0 +1,523 @@
+body{
+    height: 952px;
+    width: 1920px;
+    margin: auto;
+    font-family: sans-serif;
+}
+header{
+    margin: 0 auto;
+    width: 1920px;
+    height: 105px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background: #BAD8E3; 
+    
+}
+.headCon1{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    width: 650px;
+    
+    
+    
+}
+.retbul{
+
+   font-size: 36px;
+   text-decoration: none;
+}
+
+.nabber{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nabber >a{
+    text-decoration: none;
+}
+  
+.headCon2{
+    display: flex;
+    align-items: center;
+    justify-content:space-between; 
+     width: 250px;
+    
+}
+.terrsp{
+    text-decoration: none;
+      font-size: 20px;
+}
+   
+.topmaa{
+   color: lemonchiffon;
+   border-radius: 7px;
+   height: 48px;
+   width: 134px; 
+   text-decoration: none;
+   background-color: #1B213A;   
+}
+
+.onePage{
+    margin: 0 auto;
+    width: 1920px;
+    height: 844px;
+    display: flex;
+    justify-content:center;
+    background: #BAD8E3;
+    
+}
+
+.revanch{
+    width: 50%; 
+    margin-left: 100px                                                                                                                                                                                      ;
+}
+.canas1{
+    height:245px;
+    width: 818px; 
+    margin-top:120px ;
+}
+.fateras{
+    font-size: 70px;
+    text-decoration: none;
+}
+.redret1{
+    margin-top: 24px;
+    height: 91px;
+    width: 630px;
+}
+.koptok2{
+    height: 50px;
+    width: 496px;
+    display: flex;
+    justify-content: space-between;
+    position:absolute;
+   
+    
+}
+.reqeuy{
+    position:absolute;
+    top: 5px;
+    left:10px;
+    
+}
+input{
+    padding: 0 164px;
+     border-radius: 7px;
+}
+
+
+
+
+.rettop{
+    text-decoration: none;
+    
+  
+}
+.dataf{
+    position: absolute;
+    top: 4px;
+    right: 11px;
+    
+}
+.refret{
+    width: 99px;
+    height: 41px;
+    background-color: #1B213A;
+    color: azure;
+    border-radius: 7px;
+}
+
+.dajjaOta{
+    display: flex;
+    width: 496px;
+    justify-content: space-between;
+    margin: 70px 0;
+}
+.dajja{
+    height: 106px;
+    width: 120px;
+    border-radius: nullpx;
+
+}
+.rettak{
+    font-size:45px ;
+    color: white;
+}
+.rettak >span{
+    color: black;
+}
+
+
+.pench{
+    width: 50%;
+    text-align: center;
+    align-self: center;
+}
+
+.ikkiPage{
+    height: 600px;
+    width: 1920px;
+}
+.kantener1{
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+.konter2{
+    height: 510px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+}
+.bola1{
+    height: 300px;
+    width:361px ;
+    text-align: center;
+}
+.boopd{
+    font-size: 25px;
+}
+.marta{
+    height: 50px;
+    width: 155px;
+    font-size: 15px;
+}
+.bolakay2{
+    height: 300px;
+    width:361px ;
+    text-align: center;
+}
+.hreade{
+    height: 50px;
+    width: 155px;
+    font-size: 15px;
+    background-color: #1B213A;
+    color: snow; 
+}
+
+.bolaga3{
+    height: 300px;
+    width:361px ;
+    text-align: center;
+}
+.texnika3{
+    height:600px ;
+    width: 1920px;
+    display: flex;
+}
+.opshis1{
+    width: 50%;
+    align-self: center;
+    text-align: center;
+}
+.buladi2{
+    padding-left: 20px;
+    padding-top: 50px;
+}
+.happa1{
+    width: 650px;
+    height: 120px;
+    font-size: 50px;
+}
+.hafatpe2{
+    height: 120px;
+    width: 645px;
+}
+.happo{
+    height: 52px;
+    width: 161px;
+    background-color: #1B213A;
+    color: #FFFFFF;
+}
+.karzen0{
+    height: 800px;
+    width: 1920px;
+    margin: auto;
+}
+.vaytte1{
+    width: 1920px;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}     
+.ballep1{
+    font-size: 50px;                                                                              b  
+}
+.navbat2{
+   width: 623px; 
+}
+.ggddrr{
+    height: 590px;
+    display: flex;
+    justify-content: space-around;
+}
+.vazifa1{
+    height: 520px;
+    width: 472px;
+}
+.varser1{
+   text-align: center;
+   padding-top: 30px;
+}
+.alloo1{
+    padding-left: 20px;
+    padding-top: 40px;
+} 
+.perfe1{
+    padding-left: 20px;
+}
+.defre2{
+    font-size: 20px;
+}
+
+.marfe5{
+    margin: 20px;
+}
+.marref{
+    margin-left: 20px;
+}  
+
+.vaziyat2{
+    height: 520px;
+    width: 472px;
+}
+.vazzzif12{
+    text-align: center; 
+    padding-top: 30px;
+ }
+     
+ .allo13{
+     padding-left: 40px;
+     padding-top: 50px;
+ }
+ .allee114{
+     font-size: 20px;
+ }
+ .perfe16{
+     margin-left: 20px;
+ }
+ 
+ .marfi18{
+     margin: 20px;
+ }
+.marf19{
+    margin-left: 20px;
+}
+.vadaga3{
+    height: 520px;
+    width: 472px; 
+}
+.vadter20{
+    text-align: center; 
+    padding-top: 30px;
+ }
+     
+ .allo21{
+     padding-left: 40px;
+     padding-top: 50px;
+ }
+ .allee22{
+     font-size: 20px;
+ }
+ .perfe25{
+     margin-left: 20px;
+ }
+ 
+ .marfi28{
+     margin: 20px;
+ }
+ .marf29{
+     margin-left: 20px;
+ }
+
+
+ .kantenir111{
+     height: 850px;
+     width: 1920px;
+     display: flex;
+ }
+ .kantur22{
+    width: 50%;
+    height: 850px;    
+}
+.kante1{
+    width: 469px;
+    height: 63px;
+    font-size: 45px;
+}
+.konte2{
+    width: 598px;
+    height: 84px;
+    
+}
+.konmrte3{
+    height: 166px;
+    width: 806px;
+    display: flex;
+   
+}
+.konbar3{
+   display: flex;
+   align-items: center; 
+}
+.terrop{
+    margin-left: 300px;
+}
+.konqer4{
+    display: flex;
+    align-items: center; 
+ }
+ .terrop4{
+     margin-left: 340px;
+ }
+
+     
+.kantyur33{
+    width: 50%;
+    text-align: center;
+    align-self: center;
+}
+.papkalar{
+    height: 950px;
+    width: 1920px;
+    align-self: center;
+    text-align: center;
+    position: relative;
+}   
+.location1{
+    position: absolute;
+    top: 380px;
+    left: 56px;
+}
+.location2{
+    position: absolute;
+    left: 650px;
+    top: 327px;
+}
+.location3{
+    position: absolute;
+    top: 231px;
+    left: 1000px;
+}
+.location4{
+    position: absolute;
+    top: 370px;
+    right: 540px;
+}
+.location5{
+    position: absolute;
+    top: 500px;
+    right: 800px;
+}
+.location6{
+    position: absolute;
+    bottom: 240px;
+    left:690px ;
+}
+.location7{
+    position: absolute;
+    bottom: 200px;
+    right: 450px;
+}
+.papka1{
+    font-size: 40px;
+}
+.papku2{
+    padding: 0 700px;
+}
+.pakar1{
+    position: absolute;
+    
+}
+.jurnal{
+    height:350px ;
+    width: 1920px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color:#A6D2E2 ;
+}
+ 
+.jurna02{
+    width: 660px;
+    height: 61px;
+    font-size: 50px;
+    
+}   
+.jurnoa03{
+    height: 56px;
+    width: 623px;
+    
+}
+.jurnobe04{
+    width: 496px;
+    height: 55px;
+    position: relative;
+} 
+input{
+  height: 55px;
+  width: 190px;
+}
+.tyulon05{
+    position: absolute;
+    top: 10px;
+    right: 1px;
+}
+.turtyul05{
+    height: 41px;
+    width: 99px;
+    background-color:#1B213A ;
+    color: white;
+}
+.papkalll{
+    height: 500px;
+    width: 1920px; 
+}
+.paaaa11{
+    height: 300px;
+    display: flex;
+    justify-content: space-around ;
+}
+.paaaaa1{
+    width: 17%; 
+    flex-direction: column;
+}
+.paaaaap2{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+.ppaa1{
+    height:168px ;
+    width: 115px;
+    text-decoration: none;
+}
+.ppaa2{
+    height:168px ;
+    width: 95px;
+}
+.pppaa3{
+    height: 168px;
+    width: 88px;
+}
+.ppaaa4{
+    height: 132px;
+    width: 121px;
+}
+.battoppp{
+    display: flex;
+    justify-content: space-around;
+    width: 106%;
+}
+.batttpp{
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+}
